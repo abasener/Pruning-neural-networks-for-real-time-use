@@ -1,6 +1,5 @@
 # Pruning-neural-networks-for-real-time-use
-Abigail Basener
-5/15/2025
+5/15/2025 ~ Abigail Basener 
 
 
 
@@ -14,23 +13,22 @@ Simply place all the data, folders, and Python scripts in the correct files. The
 
 # Needed data:
   UPWINS data repository: https://github.com/wbasener/UPWINS_Spectral_Library
+  '''
   Get the following files:
     -UPWINS_4_16_2024.hdr
     -UPWINS_4_16_2024.sli
-
+'''
 
 # Needed hardware:
-  Main Hardware:
-    -Any modern laptop or desktop with Python 3.9+
+  Main Hardware: Any modern laptop or desktop with Python 3.9+
 
-  Edge Hardware (for evaluation):
-    -Any edge device you want to test that can run a Python 3.7+ script
+  Edge Hardware (for evaluation): Any edge device you want to test that can run a Python 3.7+ script
 
 
 
 # Required file structure:
-```The UPWINS data and the main file should be in the same folder with a folder called deploy_models where the models and test data will be saved. Once importOs.py is run, the resulting results.txt should be placed in the same folder as the main file before the last block can be run.
-
+The UPWINS data and the main file should be in the same folder with a folder called deploy_models where the models and test data will be saved. Once importOs.py is run, the resulting results.txt should be placed in the same folder as the main file before the last block can be run.
+```
 Main Hardware:
 project-root/
 │
