@@ -1,5 +1,5 @@
-# Pruning-neural-networks-for-real-time-use
-5/15/2025 ~ Abigail Basener 
+## Pruning-neural-networks-for-real-time-use
+# Abigail Basener 
 
 
 
@@ -13,11 +13,11 @@ Simply place all the data, folders, and Python scripts in the correct files. The
 
 # Needed data:
   UPWINS data repository: https://github.com/wbasener/UPWINS_Spectral_Library
-  '''
+```
   Get the following files:
     -UPWINS_4_16_2024.hdr
     -UPWINS_4_16_2024.sli
-'''
+```
 
 # Needed hardware:
   Main Hardware: Any modern laptop or desktop with Python 3.9+
