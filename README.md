@@ -29,7 +29,7 @@ Simply place all the data, folders, and Python scripts in the correct files. The
 
 
 # Required file structure:
-The UPWINS data and the main file should be in the same folder with a folder called deploy_models where the models and test data will be saved. Once importOs.py is run, the resulting results.txt should be placed in the same folder as the main file before the last block can be run.
+```The UPWINS data and the main file should be in the same folder with a folder called deploy_models where the models and test data will be saved. Once importOs.py is run, the resulting results.txt should be placed in the same folder as the main file before the last block can be run.
 
 Main Hardware:
 project-root/
@@ -59,3 +59,4 @@ deploy_folder/
 ├── ...
 ├── vegnet_pruned_99.pt
 └── vegnet_pruned_99.onnx
+```
